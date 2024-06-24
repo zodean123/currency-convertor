@@ -35,9 +35,9 @@ This is a simple currency converter web application built using plain JavaScript
 
 ## Currency-Converter
 
-<div style="text-align:center;">
+<p align="center">
   <img src="convertcurrencyicon.png" alt="Currency Converter Icon">
-</div>
+</p>
 
 ## License
 
